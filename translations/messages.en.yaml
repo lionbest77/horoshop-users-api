@@ -1,0 +1,8 @@
+error:
+  access_denied: 'Access denied.'
+  invalid_json_body: 'Invalid JSON body.'
+  required_fields: 'Fields %fields% are required.'
+  unauthorized: 'Unauthorized.'
+  user_not_found: 'User not found.'
+  cannot_change_login: 'You cannot change your login.'
+  user_exists: 'User with this login and password already exists.'

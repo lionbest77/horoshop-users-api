@@ -1,0 +1,8 @@
+error:
+  access_denied: 'Доступ заборонено.'
+  invalid_json_body: 'Некоректне JSON-тіло.'
+  required_fields: "Обов'язкові поля: %fields%."
+  unauthorized: 'Не авторизовано.'
+  user_not_found: 'Користувача не знайдено.'
+  cannot_change_login: 'Ви не можете змінити свій логін.'
+  user_exists: 'Користувач з таким логіном і паролем вже існує.'
